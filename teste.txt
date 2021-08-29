@@ -1,2 +1,5 @@
 lasanha
 pizza
+frango
+batata doce
+salada
